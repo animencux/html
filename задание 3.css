@@ -1,0 +1,19 @@
+.lala {
+    color: white;
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    border: 5px solid rgba(70, 66, 66, 0.678);
+}
+.lili {
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    margin-left: 10px;
+    border: 5px solid rgb(0, 0, 0);
+}
+.main {
+    display: flex;
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+}
